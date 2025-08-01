@@ -1,0 +1,10 @@
+name: "Test 2"
+description: "For testing purposes also"
+task_type: chat
+chat_options:
+  annotate_roles: [user]
+
+label_groups:
+  sentiment:
+    single_choice: true
+    labels: [positive, neutral]

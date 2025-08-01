@@ -1,0 +1,5 @@
+name: "Test of 2025-08-02"
+description: "For testing purposes also"
+task_type: chat
+chat_options:
+  annotate_roles: [user]

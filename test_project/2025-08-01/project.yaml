@@ -1,0 +1,13 @@
+name: "Test of 2025-08-01"
+description: "For testing purposes"
+task_type: chat
+chat_options:
+  annotate_roles: [user]
+
+label_groups:
+  sentiment:
+    single_choice: true
+    labels: [positive, neutral, negative]
+  actionability:
+    single_choice: true
+    labels: [action_required, ignore]
