@@ -1,5 +1,5 @@
-name: "Test of 2025-08-01"
-description: "For testing purposes"
+name: "Copyright Substitution Risk"
+description: "Annotation task evaluating prompts for specificity (reference to specific works or styles) and expression similarity (imitation or summarization of existing content)."
 task_type: chat
 chat_options:
   annotate_roles: [user]
